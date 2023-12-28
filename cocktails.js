@@ -78,8 +78,8 @@ const cocktails = [
           'Strain Into Glass: Strain the mixture into a rocks glass filled with ice.',
           'Garnish: Take a wide strip of orange peel and express the oils over the drink. Drop the peel into the glass as a garnish.'
         ]
-      },
-      {
+    },
+    {
         name: 'Whiskey Sour',
         imageUrl: 'https://i.imgur.com/y2A5zkj.png',
         ingredients: [
@@ -97,8 +97,8 @@ const cocktails = [
           'Strain Into Glass: Strain the mixture into a rocks glass filled with ice.',
           'Garnish: Garnish the drink with a lemon slice and a cherry.'
         ]
-      },
-      {
+    },
+    {
         name: 'Cosmopolitan',
         imageUrl: 'https://i.imgur.com/S75ah43.png',
         ingredients: [
@@ -136,8 +136,8 @@ const cocktails = [
           'Strain Into Glass: Strain into a glass filled with crushed ice.',
           'Garnish: Garnish with a mint sprig and a lime wheel.'
         ]
-      },
-      {
+    },
+    {
         name: 'Gin and Tonic',
         imageUrl: 'https://i.imgur.com/6SrbIWJ.png',
         ingredients: [
@@ -152,8 +152,8 @@ const cocktails = [
           'Stir Gently: Stir to combine.',
           'Garnish: Garnish with a lime wedge and rosemary.'
         ]
-      },
-      {
+    },
+    {
         name: 'Moscow Mule',
         imageUrl: 'https://i.imgur.com/IreKPU4.png',
         ingredients: [
@@ -169,8 +169,8 @@ const cocktails = [
           'Stir Gently: Stir to combine.',
           'Garnish: Garnish with a lime wedge and fresh mint sprig.'
         ]
-      },
-      {
+    },
+    {
         name: 'Caesar',
         imageUrl: 'https://i.imgur.com/vJPagMq.png',
         ingredients: [
@@ -187,8 +187,8 @@ const cocktails = [
           'Stir: Stir gently to combine.',
           'Garnish: Garnish with a celery stalk and a lime wedge.'
         ]
-      }
-      {
+    },
+    {
         name: 'Tom Collins',
         imageUrl: 'https://i.imgur.com/14pwLmN.png',
         ingredients: [
@@ -207,8 +207,8 @@ const cocktails = [
           'Stir Gently: Stir to mix.',
           'Garnish: Garnish with lemon slice and maraschino cherry.'
         ]
-      }
-      {
+    },
+    {
         name: 'Manhattan',
         imageUrl: 'https://i.imgur.com/cNz7aj5.png',
         ingredients: [
@@ -224,8 +224,8 @@ const cocktails = [
           'Strain Into Glass: Strain into a chilled glass.',
           'Garnish: Garnish with a maraschino cherry and an orange twist.'
         ]
-      }
-      {
+    },
+    {
         name: 'Piña Colada',
         imageUrl: 'https://i.imgur.com/Tzt23IQ.png',
         ingredients: [
@@ -240,8 +240,8 @@ const cocktails = [
           'Pour Into Glass: Pour into a chilled glass.',
           'Garnish: Garnish with a pineapple wedge and maraschino cherry.'
         ]
-      }
-      {
+    },
+    {
         name: 'Mojito',
         imageUrl: 'https://i.imgur.com/ziGUbNJ.png',
         ingredients: [
@@ -261,8 +261,8 @@ const cocktails = [
           'Top with Soda Water: Fill with club soda.',
           'Garnish: Garnish with lime wedge and mint sprig.'
         ]
-      },
-      {
+    },
+    {
         name: 'Espresso Martini',
         imageUrl: 'https://i.imgur.com/rf7bSg2.png',
         ingredients: [
@@ -279,8 +279,8 @@ const cocktails = [
           'Strain Into Glass: Pour into a chilled glass.',
           'Garnish: Garnish with coffee beans.'
         ]
-      },
-      {
+    },
+    {
         name: 'Daiquiri',
         imageUrl: 'https://i.imgur.com/14oYwYP.png',
         ingredients: [
@@ -296,8 +296,8 @@ const cocktails = [
           'Strain Into Glass: Pour into a chilled glass.',
           'Garnish: Garnish with a lime wheel or wedge.'
         ]
-      },
-      {
+    },
+    {
         name: 'Bellini',
         imageUrl: 'https://i.imgur.com/fxdkJLo.png',
         ingredients: [
@@ -315,8 +315,8 @@ const cocktails = [
           'Add Ice (Optional): Add ice cubes if desired.',
           'Garnish: Garnish with a peach slice or raspberry.'
         ]
-      }
-      {
+    },
+    {
         name: 'Long Island Iced Tea',
         imageUrl: 'https://i.imgur.com/dgcJihK.png',
         ingredients: [
@@ -340,8 +340,8 @@ const cocktails = [
           'Stir Gently: Give the drink a gentle stir.',
           'Garnish: Garnish with a lemon wheel on the rim of the glass.'
         ]
-      },
-      {
+    },
+    {
         name: 'Sazerac',
         imageUrl: 'https://i.imgur.com/n0hp1FM.png',
         ingredients: [
@@ -363,8 +363,8 @@ const cocktails = [
           'Drop Lemon Peel Into Glass: Garnish by dropping the twisted lemon peel into the glass.',
           'Serve Neat: Traditionally served without ice.'
         ]
-      },
-      {
+    },
+    {
         name: 'Floradora',
         imageUrl: 'https://i.imgur.com/CIPtEZN.png',
         ingredients: [
@@ -386,8 +386,8 @@ const cocktails = [
           'Stir Gently: Give the drink a gentle stir.',
           'Garnish: Garnish with fresh raspberries and a lime wheel on the rim of the glass.'
         ]
-      },
-      {
+    },
+    {
         name: 'Paloma',
         imageUrl: 'https://i.imgur.com/L4QSOiT.png',
         ingredients: [
@@ -408,8 +408,8 @@ const cocktails = [
           'Stir Gently: Give the drink a gentle stir.',
           'Garnish: Garnish with a grapefruit wedge on the rim of the glass.'
         ]
-      },
-      {
+    },
+    {
         name: 'Activated Charcoal Martini',
         imageUrl: 'https://i.imgur.com/rkg9FJz.png',
         ingredients: [
@@ -429,8 +429,8 @@ const cocktails = [
           'Express Lemon Twist: Express the oil from a lemon twist over the drink.',
           'Garnish: Garnish with a dehydrated orange wheel.'
         ]
-      }
-      {
+    },
+    {
         name: 'Matcha Mojito',
         imageUrl: 'https://i.imgur.com/rqnNu2Z.png',
         ingredients: [
@@ -454,8 +454,8 @@ const cocktails = [
           'Stir Gently: Give the drink a gentle stir.',
           'Garnish: Garnish with cucumber, parsley, and a blueberry.'
         ]
-      },
-      {
+    },
+    {
         name: 'Hibiscus Gin Fizz',
         imageUrl: 'https://i.imgur.com/KubK4f7.png',
         ingredients: [
@@ -477,8 +477,8 @@ const cocktails = [
           'Top with Club Soda: Top off the glass with club soda to your liking.',
           'Garnish: Garnish with dried hibiscus flowers or a lemon wheel.'
         ]
-      },
-      {
+    },
+    {
         name: 'Smoked Rosemary Whiskey Sour',
         imageUrl: 'https://i.imgur.com/sqGtpLw.png',
         ingredients: [
@@ -501,8 +501,8 @@ const cocktails = [
           'Garnish and Smoke (if not smoking): Garnish with a rosemary sprig and a lemon wheel. If not smoking, present the cocktail under a glass cloche to capture the smoky aroma.',
           'Optional Variation (Advanced): For a more intense smoky flavor, you can float a small amount of smoky Islay Scotch on top of the drink.'
         ]
-      },
-      {
+    },
+    {
         name: 'Turmeric Margarita',
         imageUrl: 'https://i.imgur.com/0maHYjd.png',
         ingredients: [
@@ -524,8 +524,8 @@ const cocktails = [
           'Garnish: Garnish with a lime wheel or wedge on the rim of the glass.',
           'Optional Variation (Advanced): For an extra layer of flavor, add a small pinch of black pepper or a slice of fresh turmeric as a garnish.'
         ]
-      },
-      {
+    },
+    {
         name: 'Cucumber Basil Gin Smash',
         imageUrl: 'https://i.imgur.com/mbFc1ze.png',
         ingredients: [
@@ -549,8 +549,8 @@ const cocktails = [
           'Stir Gently: Give the drink a gentle stir.',
           'Garnish: Garnish with cucumber slices and fresh basil leaves.'
         ]
-      }
-      {
+    },
+    {
         name: 'Blueberry Lavender Vodka Lemonade',
         imageUrl: 'https://i.imgur.com/MLFtE40.png',
         ingredients: [
@@ -574,8 +574,8 @@ const cocktails = [
           'Garnish: Garnish with a fresh lavender sprig and a few blueberries.',
           'Optional Variation (Advanced): For an extra burst of blueberry flavor, you can add a small amount of blueberry liqueur to the cocktail.'
         ]
-      },
-      {
+    },
+    {
         name: 'Coconut Ginger Caipirinha',
         imageUrl: 'https://i.imgur.com/HcNQqUZ.png',
         ingredients: [
@@ -597,8 +597,8 @@ const cocktails = [
           'Garnish: Garnish with coconut flakes on top and a lime wheel on the rim of the glass.',
           'Optional Variation (Advanced): For added coconut flavor, you can float a small amount of coconut cream on top of the drink by pouring it gently over the back of a spoon.'
         ]
-      },
-      {
+    },
+    {
         name: 'Saffron-infused Gin and Tonic',
         imageUrl: 'https://i.imgur.com/oJdJSev.png',
         ingredients: [
@@ -618,8 +618,8 @@ const cocktails = [
           'Garnish: Garnish the Saffron-infused Gin and Tonic with a twist of orange peel or a few saffron threads on top.',
           'Optional Variation (Advanced): For an extra layer of flavor, you can add a splash of orange bitters or a few drops of orange blossom water.'
         ]
-      },
-      {
+    },
+    {
         name: 'Beetroot Bourbon Sour',
         imageUrl: 'https://i.imgur.com/bipkv2c.png',
         ingredients: [
@@ -640,8 +640,8 @@ const cocktails = [
           'Garnish: Garnish with a thin beetroot chip.',
           'Optional Variation (Advanced): For a hint of spice, you can add a small pinch of ground cinnamon or a few drops of aromatic bitters.'
         ]
-      },
-      {
+    },
+    {
         name: 'Spicy Mango Jalapeño Margarita',
         imageUrl: 'https://i.imgur.com/h3WWeL6.png',
         ingredients: [
@@ -666,8 +666,8 @@ const cocktails = [
           'Garnish: Garnish with a slice of fresh mango and a thin jalapeño slice on the rim of the glass.',
           'Optional Variation (Advanced): For an extra layer of spice, you can infuse the tequila with jalapeño slices beforehand.'
         ]
-      }
-      {
+    },
+    {
         name: 'Elderflower Paloma',
         imageUrl: 'https://i.imgur.com/fTGbJ8f.png',
         ingredients: [
@@ -691,8 +691,8 @@ const cocktails = [
           'Garnish: Garnish with a slice of grapefruit and edible flowers for an elegant touch.',
           'Optional Variation (Advanced): For an extra layer of floral complexity, you can add a few drops of lavender bitters to the cocktail.'
         ]
-      },
-      {
+    },
+    {
         name: 'Raspberry Thyme Prosecco Smash',
         imageUrl: 'https://i.imgur.com/9n51pEH.png',
         ingredients: [
@@ -717,8 +717,8 @@ const cocktails = [
           'Stir Gently: Give the drink a gentle stir to mix the Prosecco with the other ingredients.',
           'Garnish: Garnish with fresh raspberries and a thyme sprig.'
         ]
-      },
-      {
+    },
+    {
         name: 'Chai Spiced Rum Punch',
         imageUrl: 'https://i.imgur.com/oCFzm9C.png',
         ingredients: [
@@ -748,7 +748,7 @@ const cocktails = [
           'Serve: Ladle the Chai Spiced Rum Punch into individual glasses and serve.'
         ]
     },
-      {
+    {
         name: 'Blackberry Sage Gin Fizz',
         imageUrl: 'https://i.imgur.com/93GxmGj.png',
         ingredients: [
@@ -773,8 +773,8 @@ const cocktails = [
           'Stir Gently: Stir to mix.',
           'Garnish: Garnish with blackberries and a sage leaf.'
         ]
-      },
-      {
+    },
+    {
         name: 'Cucumber Mint Gin Tonic',
         imageUrl: 'https://i.imgur.com/jTo5EHX.png',
         ingredients: [
@@ -797,8 +797,8 @@ const cocktails = [
           'Stir Gently: Stir to mix.',
           'Garnish: Garnish with a cucumber ribbon and a sprig of fresh mint.'
         ]
-      },
-      {
+    },
+    {
         name: 'Fig and Honey Bourbon Fizz',
         imageUrl: 'https://i.imgur.com/8dkIJLr.png',
         ingredients: [
@@ -820,8 +820,8 @@ const cocktails = [
           'Stir Gently: Stir to mix.',
           'Garnish: Garnish with fresh fig slices and some fresh thyme.'
         ]
-      },
-      {
+    },
+    {
         name: 'Vanilla Chai White Russian',
         imageUrl: 'https://i.imgur.com/WPY9ADs.png',
         ingredients: [
@@ -840,8 +840,8 @@ const cocktails = [
           'Float Heavy Cream: Slowly pour heavy cream over the back of a spoon to create a floating layer.',
           'Garnish: Garnish with ground cinnamon or a cinnamon stick. Optional: drizzle with vanilla caramel.'
         ]
-      }                                                                                                                                                      
-      {
+    },
+    {
         name: 'Pomegranate Rosemary Sparkler',
         imageUrl: 'https://i.imgur.com/fPheb82.png',
         ingredients: [
@@ -861,8 +861,8 @@ const cocktails = [
           'Top off with sparkling water.',
           'Stir gently and garnish with fresh pomegranate arils and a sprig of fresh rosemary.'
         ]
-      },
-      {
+    },
+    {
         name: 'Ginger Lemongrass Caipiroska',
         imageUrl: 'https://i.imgur.com/69yWSQy.png',
         ingredients: [
@@ -883,8 +883,8 @@ const cocktails = [
           'Strain the mixture into a rocks glass filled with ice.',
           'Optional: Top off with soda water and garnish with a lemongrass stalk and lime wheel.'
         ]
-      },
-      {
+    },
+    {
         name: 'Japanese Yuzu Sour',
         imageUrl: 'https://i.imgur.com/dl60W2x.png',
         ingredients: [
@@ -902,8 +902,8 @@ const cocktails = [
           'Strain the mixture into a rocks glass filled with ice.',
           'Garnish with dried lemon, rosemary, and cinnamon.'
         ]
-      }
-      {
+    },
+    {
         name: 'Brazilian Caipirinha',
         imageUrl: 'https://i.imgur.com/XFY6y23.png',
         ingredients: [
@@ -923,8 +923,8 @@ const cocktails = [
           'Fill the glass with ice cubes.',
           'Stir again and garnish with a lime wheel.'
         ]
-      },
-      {
+    },
+    {
         name: 'Mexican Mezcal Mule',
         imageUrl: 'https://i.imgur.com/HWL6NfY.png',
         ingredients: [
@@ -944,8 +944,8 @@ const cocktails = [
           'Top off with ginger beer and stir gently.',
           'Garnish with a lime wheel and a slice of jalapeño.'
         ]
-      },
-      {
+    },
+    {
         name: 'Spanish Sangria',
         imageUrl: 'https://i.imgur.com/jB79orJ.png',
         ingredients: [
@@ -966,8 +966,8 @@ const cocktails = [
           'Fill glasses with ice cubes and pour the sangria over the ice.',
           'Garnish with additional slices of orange and lemon.'
         ]
-      },
-      {
+    },
+    {
         name: 'French 75',
         imageUrl: 'https://i.imgur.com/BBzRhUE.png',
         ingredients: [
@@ -986,8 +986,8 @@ const cocktails = [
           'Top off with chilled champagne or sparkling wine.',
           'Garnish with a twist of lemon.'
         ]
-      }
-      {
+    },
+    {
         name: 'Irish Coffee Martini',
         imageUrl: 'https://i.imgur.com/F4NqjL9.png',
         ingredients: [
@@ -1007,8 +1007,8 @@ const cocktails = [
           'Fill the shaker with ice cubes. Shake the mixture vigorously for about 10-15 seconds.',
           'Strain the shaken mixture into a chilled martini glass. Garnish with coffee beans and dust dark chocolate powder.'
         ]
-      },
-      {
+    },
+    {
         name: 'Caribbean Rum Punch',
         imageUrl: 'https://i.imgur.com/sq7KT8X.png',
         ingredients: [
@@ -1034,8 +1034,8 @@ const cocktails = [
           'Stir well and refrigerate the punch for at least 2 hours.',
           'Fill glasses with ice cubes, pour the punch, and garnish with orange slices, pineapple slices, and a maraschino cherry.'
         ]
-      },
-      {
+    },
+    {
         name: 'Thai Basil Chili Margarita',
         imageUrl: 'https://i.imgur.com/JBJj9fh.png',
         ingredients: [
@@ -1056,8 +1056,8 @@ const cocktails = [
           'Fill the shaker with ice cubes and shake the mixture vigorously for about 10-15 seconds.',
           'Strain the shaken mixture into the prepared rocks glass and garnish with Thai basil leaves and slices of chili.'
         ]
-      },
-      {
+    },
+    {
         name: 'Cuban Mojito',
         imageUrl: 'https://i.imgur.com/xw2i1HP.png',
         ingredients: [
@@ -1080,8 +1080,8 @@ const cocktails = [
           'Shake or stir well and strain into a highball glass filled with ice.',
           'Top off with soda water, stir gently, and garnish with a lime wheel and a sprig of fresh mint.'
         ]
-      },
-      {
+    },
+    {
         name: 'Aperol Spritz',
         imageUrl: 'https://i.imgur.com/RUo0R1M.png',
         ingredients: [
@@ -1099,8 +1099,8 @@ const cocktails = [
           'Pour the measured Aperol over the ice, followed by the Prosecco and soda water.',
           'Stir gently and garnish with a slice of orange.'
         ]
-      } 
-      {
+    },
+    {
         name: 'Argentinian Fernet and Cola',
         imageUrl: 'https://i.imgur.com/pR03IMI.png',
         ingredients: [
@@ -1117,8 +1117,8 @@ const cocktails = [
           'Give the Fernet and Cola a gentle stir to mix the ingredients together.',
           'Garnish the drink with a lemon wedge or twist.'
         ]
-      },
-      {
+    },
+    {
         name: 'Cumin Honey Tequila Sunrise',
         imageUrl: 'https://i.imgur.com/xI9FcrH.png',
         ingredients: [
@@ -1143,8 +1143,8 @@ const cocktails = [
           'Slowly pour the grenadine over the back of a spoon to create a layered effect.',
           'Garnish the Cumin Honey Tequila Sunrise with an orange slice and a maraschino cherry.'
         ]
-      },
-      {
+    },
+    {
         name: 'Jamaican Dark \'n\' Stormy',
         imageUrl: 'https://i.imgur.com/OiDAOKh.png',
         ingredients: [
@@ -1163,8 +1163,8 @@ const cocktails = [
           'Squeeze fresh lime juice into the glass and stir gently.',
           'Garnish the Dark \'n\' Stormy with a lime wedge on the rim of the glass.'
         ]
-      },
-      {
+    },
+    {
         name: 'Greek Ouzo Lemonade',
         imageUrl: 'https://i.imgur.com/9e3oxoQ.png',
         ingredients: [
@@ -1185,8 +1185,8 @@ const cocktails = [
           'Add the simple syrup to the glass and top off with sparkling water.',
           'Give the Greek Ouzo Lemonade a gentle stir and garnish with lemon slices and fresh mint leaves.'
         ]
-      },
-      {
+    },
+    {
         name: 'German Radler Cocktail',
         imageUrl: 'https://i.imgur.com/DVA7hio.png',
         ingredients: [
@@ -1209,8 +1209,8 @@ const cocktails = [
           'If desired, add simple syrup to the cocktail and stir gently.',
           'Garnish the drink with a lemon wedge on the rim of the glass.'
         ]
-      }
-      {
+    },
+    {
         name: 'Indian Masala Chai Martini',
         imageUrl: 'https://i.imgur.com/tHWjAfR.png',
         ingredients: [
@@ -1244,8 +1244,8 @@ const cocktails = [
           'Optional Variation (Advanced):',
           'For an extra layer of flavor, you can add a small amount of ground cardamom or nutmeg to the shaker.'
         ]
-      },
-      {
+    },
+    {
         name: 'Black Russian',
         imageUrl: 'https://i.imgur.com/7gwlQa5.png',
         ingredients: [
@@ -1268,8 +1268,8 @@ const cocktails = [
           'Optional Variation (Advanced):',
           'For a layered effect, you can pour the coffee liqueur over the back of a spoon onto the vodka, allowing it to float on top.'
         ]
-      },
-      {
+    },
+    {
         name: 'Austrian Hugo Cocktail',
         imageUrl: 'https://i.imgur.com/1Zwdfc2.png',
         ingredients: [
@@ -1305,8 +1305,8 @@ const cocktails = [
           'Optional Variation (Advanced):',
           'For added visual appeal, you can float a few fresh berries, such as raspberries or blackberries, in the cocktail.'
         ]
-      },
-      {
+    },
+    {
         name: 'Portuguese Ginjinha Sour',
         imageUrl: 'https://i.imgur.com/ieWI62x.png',
         ingredients: [
@@ -1338,8 +1338,8 @@ const cocktails = [
           'Optional Variation (Advanced):',
           'For added complexity, you can float a few drops of Angostura bitters on top of the frothy egg white layer.'
         ]
-      },
-      {
+    },
+    {
         name: 'Chinese Lychee Martini',
         imageUrl: 'https://i.imgur.com/ZuY5ssy.png',
         ingredients: [
@@ -1369,8 +1369,8 @@ const cocktails = [
           'Optional Variation (Advanced):',
           'For an extra touch, you can rim the martini glass with a small amount of sugar for added sweetness.'
         ]
-      }
-      {
+    },
+    {
         name: 'Australian Eucalyptus Vodka Lemonade',
         imageUrl: 'https://i.imgur.com/5F9raB6.png',
         ingredients: [
@@ -1409,8 +1409,8 @@ const cocktails = [
           'Optional Variation (Advanced):',
           'For an extra burst of flavor, you can muddle a eucalyptus leaf in the glass before adding the other ingredients.'
         ]
-      },
-      {
+    },
+    {
         name: 'Watermelon Basil Cooler',
         imageUrl: 'https://i.imgur.com/7cmaJLs.png',
         ingredients: [
@@ -1448,8 +1448,8 @@ const cocktails = [
           'Optional Variation (Advanced):',
           'For added visual appeal, you can float a few small watermelon balls on top of the drink.'
         ]
-      },
-      {
+    },
+    {
         name: 'Peach Mint Julep',
         imageUrl: 'https://i.imgur.com/F5FBLBG.png',
         ingredients: [
@@ -1488,8 +1488,8 @@ const cocktails = [
           'Optional Variation (Advanced):',
           'For added visual appeal, you can float a mint sprig on top of the ice.'
         ]
-      },
-      {
+    },
+    {
         name: 'Dragon Fruit Rum Punch',
         imageUrl: 'https://i.imgur.com/2Q7W8x2.png',
         ingredients: [
@@ -1532,8 +1532,8 @@ const cocktails = [
           'Optional Variation (Advanced):',
           'For an extra layer of flavor, you can float a few drops of bitters on top of the drink.'
         ]
-      },
-      {
+    },
+    {
         name: 'Passion Fruit Caipiroska',
         imageUrl: 'https://i.imgur.com/NqdaQNw.png',
         ingredients: [
@@ -1565,8 +1565,8 @@ const cocktails = [
           'Optional Variation (Advanced):',
           'For added visual appeal, you can float a few passion fruit seeds on top of the ice.'
         ]
-      }
-      {
+    },
+    {
         name: 'Kiwi Coconut Mojito',
         imageUrl: 'https://i.imgur.com/OBjdo6k.png',
         ingredients: [
@@ -1605,8 +1605,8 @@ const cocktails = [
           'Optional Variation (Advanced):',
           'For added visual appeal, you can float a few kiwi slices on top of the ice.'
         ]
-      }, 
-      {
+    },
+    {
         name: 'Strawberry Balsamic Smash',
         imageUrl: 'https://i.imgur.com/p6VX1Es.png',
         ingredients: [
@@ -1638,8 +1638,8 @@ const cocktails = [
           'Optional Variation (Advanced):',
           'For added visual appeal, you can rim the glass with a mixture of sugar and balsamic reduction.'
         ]
-      },
-      {
+    },
+    {
         name: 'Cantaloupe Ginger Sparkler',
         imageUrl: 'https://i.imgur.com/811aXuL.png',
         ingredients: [
@@ -1672,8 +1672,8 @@ const cocktails = [
           'Optional Variation (Advanced):',
           'For added flair, you can rim the glass with a mixture of sugar and grated ginger.'
         ]
-      },
-      {
+    },
+    {
         name: 'Raspberry Peach Bellini',
         imageUrl: 'https://i.imgur.com/yGxBNIh.png',
         ingredients: [
@@ -1703,8 +1703,8 @@ const cocktails = [
           'Optional Variation (Advanced):',
           'For an extra touch of sweetness, you can rim the glass with sugar.'
         ]
-      },
-      {
+    },
+    {
         name: 'Blood Orange Elderflower Martini',
         imageUrl: 'https://i.imgur.com/gYjo92P.png',
         ingredients: [
@@ -1734,8 +1734,8 @@ const cocktails = [
           'Optional Variation (Advanced):',
           'For an extra layer of flavor, you can rim the glass with sugar or a mixture of sugar and blood orange zest.'
         ]
-      }
-      {
+    },
+    {
         name: 'Papaya Pineapple Rum Punch',
         imageUrl: 'https://i.imgur.com/bbLXLrd.png',
         ingredients: [
@@ -1775,8 +1775,8 @@ const cocktails = [
           'Stir Gently:',
           'Give the punch a gentle stir before sipping to ensure even distribution of flavors.'
         ]
-      },
-      {
+    },
+    {
         name: 'Lychee Rose Gin Fizz',
         imageUrl: 'https://i.imgur.com/ifWskgM.png',
         ingredients: [
@@ -1817,8 +1817,8 @@ const cocktails = [
           'Optional Variation (Advanced):',
           'For added visual appeal, you can float a few rose petals on top of the drink.'
         ]
-      },
-      {
+    },
+    {
         name: 'Blackberry Mint Lemonade Rum Float',
         imageUrl: 'https://i.imgur.com/j9hbTUy.png',
         ingredients: [
@@ -1861,8 +1861,8 @@ const cocktails = [
           'Optional Variation (Advanced):',
           'For added visual appeal, you can rim the glass with sugar or a mixture of sugar and finely chopped mint.'
         ]
-      },
-      {
+    },
+    {
         name: 'Apple Cinnamon Whiskey Sour',
         imageUrl: 'https://i.imgur.com/mKu6SpY.png',
         ingredients: [
@@ -1904,8 +1904,8 @@ const cocktails = [
           'Optional Variation (Advanced):',
           'For added visual appeal, you can sprinkle a pinch of ground cinnamon on top of the foam.'
         ]
-      },
-      {
+    },
+    {
         name: 'Cranberry Orange Mule',
         imageUrl: 'https://i.imgur.com/EkRYhO3.png',
         ingredients: [
@@ -1940,8 +1940,8 @@ const cocktails = [
           'Optional Variation (Advanced):',
           'For an extra touch of sweetness and visual appeal, you can rim the glass with sugar or a mixture of sugar and orange zest.'
         ]
-      }
-      {
+    },
+    {
         name: "Grapefruit Thyme Sparkler",
         imageUrl: "https://i.imgur.com/tHkPyxE.png",
         ingredients: [
@@ -1959,8 +1959,8 @@ const cocktails = [
           "Garnish with thyme sprigs and grapefruit slices.",
           "Optional: Rim the glass with sugar or thyme leaves."
         ]
-      },
-      {
+    },
+    {
         name: "Guava Basil Margarita",
         imageUrl: "https://i.imgur.com/14m2uKa.png",
         ingredients: [
@@ -1980,8 +1980,8 @@ const cocktails = [
           "Shake well, then strain into the prepared glass.",
           "Garnish with basil and lime."
         ]
-      },
-      {
+    },
+    {
         name: "Mango Habanero Margarita",
         imageUrl: "https://i.imgur.com/D7WNrYr.png",
         ingredients: [
@@ -2001,8 +2001,8 @@ const cocktails = [
           "Strain into the prepared glass over fresh ice.",
           "Garnish with lime slices."
         ]
-      },
-      {
+    },
+    {
         name: "Blueberry Mint Gin Fizz",
         imageUrl: "https://i.imgur.com/RXL5pXT.png",
         ingredients: [
@@ -2022,8 +2022,8 @@ const cocktails = [
           "Double strain into a glass filled with ice.",
           "Top with club soda and garnish with blueberries and mint."
         ]
-      },
-      {
+    },
+    {
         name: "Coconut Pineapple Rum Runner",
         imageUrl: "https://i.imgur.com/FHvY5aV.png",
         ingredients: [
@@ -2043,8 +2043,8 @@ const cocktails = [
           "Layer grenadine over the drink by pouring it over the back of a spoon.",
           "Garnish with pineapple slice and strawberry."
         ]
-      }
-      {
+    },
+    {
         name: "Cherry Almond Smash",
         imageUrl: "https://i.imgur.com/aZhwTH7.png",
         ingredients: [
@@ -2066,8 +2066,8 @@ const cocktails = [
           "Top with club soda and stir gently.",
           "Garnish with orange zest and cherries."
         ]
-      },
-      {
+    },
+    {
         name: "Toasted Marshmallow White Russian",
         imageUrl: "https://i.imgur.com/9pUV1an.png",
         ingredients: [
@@ -2085,8 +2085,8 @@ const cocktails = [
           "Strain into a glass filled with ice.",
           "Garnish with toasted marshmallows."
         ]
-      },
-      {
+    },
+    {
         name: "Chocolate Orange Martini",
         imageUrl: "https://i.imgur.com/S6aE66S.png",
         ingredients: [
@@ -2102,8 +2102,8 @@ const cocktails = [
           "Combine vodka, orange liqueur, white chocolate liqueur, and cream.",
           "Shake well with ice and strain into the chilled glass."
         ]
-      },
-      {
+    },
+    {
         name: "Tiramisu Cocktail",
         imageUrl: "https://i.imgur.com/iUQeWqJ.png",
         ingredients: [
@@ -2126,8 +2126,8 @@ const cocktails = [
           "Froth the heavy cream and float it on top of the cocktail.",
           "Dust with cocoa powder and garnish if desired."
         ]
-      }
-      {
+    },
+    {
         name: "Banana Bread Old Fashioned",
         imageUrl: "https://i.imgur.com/tGxVmoN.png",
         ingredients: [
@@ -2146,8 +2146,8 @@ const cocktails = [
           "Garnish with dried orange wheel."
         ],
         advancedTip: "For an additional layer of flavor, smoke the glass."
-      },
-      {
+    },
+    {
         name: "Caramel Apple Moscow Mule",
         imageUrl: "https://i.imgur.com/jYl9SX5.png",
         ingredients: [
@@ -2167,8 +2167,8 @@ const cocktails = [
           "Top with ginger beer and garnish."
         ],
         advancedTip: "Rim the copper mug with cinnamon sugar for an added flavor."
-      },
-      {
+    },
+    {
         name: "Pumpkin Spice Bourbon Sour",
         imageUrl: "https://i.imgur.com/xt0ayLJ.png",
         ingredients: [
@@ -2186,8 +2186,8 @@ const cocktails = [
           "Garnish with pumpkin pie spice."
         ],
         advancedTip: "Lightly torch the foam with a kitchen torch for a brûlée effect."
-      },
-      {
+    },
+    {
         name: "Strawberry Shortcake Martini",
         imageUrl: "https://i.imgur.com/SFH5iff.png",
         ingredients: [
@@ -2206,8 +2206,8 @@ const cocktails = [
           "Garnish with fresh strawberries."
         ],
         advancedTip: "Drizzle strawberry syrup or add whipped cream for an extra touch."
-      },
-      {
+    },
+    {
         name: "Lemon Meringue Pie Martini",
         imageUrl: "https://i.imgur.com/Ysy0D3m.png",
         ingredients: [
@@ -2227,8 +2227,8 @@ const cocktails = [
           "Garnish with lemon slices."
         ],
         advancedTip: "Rim the glass with sugar and citric acid for an enhanced flavor experience."
-      }    
-      {
+    },
+    {
         name: "Hazelnut Espresso Martini",
         imageUrl: "https://i.imgur.com/fZIFxk9.png",
         ingredients: [
@@ -2248,8 +2248,8 @@ const cocktails = [
           "Garnish with coffee beans.",
         ],
         advancedTip: "Lightly torch the surface of the foam for an added layer of flavor and presentation."
-      },
-      {
+    },
+    {
         name: "Key Lime Pie Mojito",
         imageUrl: "https://i.imgur.com/u2uERn8.png",
         ingredients: [
@@ -2271,8 +2271,8 @@ const cocktails = [
           "Top with club soda, garnish with lime wheel and mint sprig."
         ],
         advancedTip: "Rim the glass with crushed graham crackers for a nod to the pie crust."
-      },
-      {
+    },
+    {
         name: "Chipotle Passion Fruit Martini",
         imageUrl: "https://i.imgur.com/ayLJfZ6.png",
         ingredients: [
@@ -2291,8 +2291,8 @@ const cocktails = [
           "Optional garnish with a passion fruit half.",
         ],
         advancedTip: "Smoke the glass for a smokier flavor using a smoking gun or wood chip-smoked glass cover."
-      },
-      {
+    },
+    {
         name: "Wasabi Ginger Sake Cocktail",
         imageUrl: "https://i.imgur.com/PyMynKh.png",
         ingredients: [
@@ -2312,8 +2312,8 @@ const cocktails = [
           "Garnish with thin slices of fresh ginger."
         ],
         advancedTip: "Rim the glass with a mixture of salt and wasabi powder for a spicy kick if you enjoy heat."
-      },
-      {
+    },
+    {
         name: "Mangorita Slush",
         imageUrl: "https://i.imgur.com/G4hlVIp.png",
         ingredients: [
@@ -2334,7 +2334,7 @@ const cocktails = [
           "Garnish with a lime wedge.",
         ],
         advancedTip: "Float a small amount of mango puree on top of the drink before garnishing for an extra touch of flavor."
-      }
+    },
     ];
 
   // Exporting the cocktails array for use in other scripts
