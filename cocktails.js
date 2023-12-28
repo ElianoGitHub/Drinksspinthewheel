@@ -2337,6 +2337,4 @@ const cocktails = [
     },
     ];
 
-  // Exporting the cocktails array for use in other scripts
-  export default cocktails;
-  
+    window.cocktails = cocktails;
