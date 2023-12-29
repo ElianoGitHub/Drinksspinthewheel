@@ -1,45 +1,54 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Spin the Wheel - Cocktail Recipes</title>
     <link rel="stylesheet" href="styles.css">
-    
+
     <!-- Include the Wheel of Fortune library -->
     <script src="https://cdn.jsdelivr.net/npm/wheel-of-fortune/dist/wheel-of-fortune.min.js"></script>
-  </head>
-  
+</head>
+
 <body>
 
-<!-- Drink Selection Section -->
-<section id="drinkSelection">
-  <h1>Spin the Wheel For Your Cocktail Idea!</h1>
-  <!-- Button elements for each cocktail will be dynamically generated here -->
-</section>
+    <!-- Drink Selection Section -->
+    <section id="drinkSelection">
+        <h1>Spin the Wheel For Your Cocktail Idea!</h1>
+        <!-- Button elements for each cocktail will be dynamically generated here -->
+    </section>
 
-<!-- Recipe Display Section -->
-<section id="recipeDisplay" class="hidden">
-  <!-- Selected cocktail recipe details will be displayed here -->
-  <img id="cocktailImage" src="" alt="Cocktail Image">
-  <h2 id="cocktailName"></h2>
-  <h3>Ingredients:</h3>
-  <ul id="ingredientsList">
-    <!-- Ingredients will be dynamically added here -->
-  </ul>
-  <h3>Instructions:</h3>
-  <ol id="instructionsList">
-    <!-- Instructions will be dynamically added here -->
-  </ol>
-</section>
+    <!-- Spin Button -->
+    <button id="spinButton">Spin the Wheel!</button>
 
-<!-- Footer Section -->
-<footer>
-  <p>&copy; Explore The Senses</p>
-</footer>
+    <!-- Canvas for the spinning wheel -->
+    <canvas id="myWheel" width="400" height="400"></canvas>
 
-<script src="cocktails.js"></script>
-<script src="script.js"></script>
+    <!-- Recipe Display Section -->
+    <section id="recipeDisplay" class="hidden">
+        <!-- Selected cocktail recipe details will be displayed here -->
+        <img id="cocktailImage" src="" alt="Cocktail Image">
+        <h2 id="cocktailName"></h2>
+        <h3>Ingredients:</h3>
+        <ul id="ingredientsList">
+            <!-- Ingredients will be dynamically added here -->
+        </ul>
+        <h3>Instructions:</h3>
+        <ol id="instructionsList">
+            <!-- Instructions will be dynamically added here -->
+        </ol>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; Explore The Senses</p>
+    </footer>
+
+    <!-- Include your scripts -->
+    <script src="cocktails.js"></script>
+    <script src="script.js"></script>
 
 </body>
+
 </html>
