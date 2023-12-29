@@ -1,101 +1,108 @@
 /* Reset some default styles */
 body, h1, h2, h3, p {
-    margin: 0;
-    padding: 0;
-  }
-  
-  /* Set a background color */
-  body {
-    background-color: #E4FEFF;
-    font-family: 'Arial', sans-serif;
-  }
-  
-  /* Style for the drink selection section */
-  #drinkSelection {
-    text-align: center;
-    margin-top: 50px;
-  }
-  
-  #drinkSelection h1 {
-    font-size: 2.5em;
-    color: #5CE1E6;
-    margin-bottom: 20px;
-  }
-  
-  /* Style for the recipe display section */
-  #recipeDisplay {
-    margin-top: 50px;
-    text-align: center;
-  }
-  
-  /* Style for buttons */
-  button {
-    padding: 15px 25px;
-    margin: 10px;
-    font-size: 1.2em;
-    cursor: pointer;
-    background-color: #5CE1E6;
-    color: #fff;
-    border: none;
-    border-radius: 8px;
-    transition: background-color 0.3s ease;
-  }
-  
-  button:hover {
-    background-color: #0E8FA6;
-  }
-  
-  /* Style for the cocktail image */
-  #recipeDisplay img {
-    max-width: 300px;
-    height: auto;
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    margin-bottom: 20px;
-  }
-  
-  /* Style for the cocktail name */
-  #recipeDisplay h2 {
-    font-size: 2em;
-    color: #5CE1E6;
-    margin-bottom: 20px;
-  }
-  
-  /* Style for the ingredients list */
-  #recipeDisplay ul {
-    list-style-type: none;
-    margin-bottom: 20px;
-  }
-  
-  #recipeDisplay ul li {
-    font-size: 1.2em;
-    color: #666;
-    margin-bottom: 10px;
-  }
-  
-  /* Style for the instructions */
-  #recipeDisplay ol {
-    list-style-type: decimal;
-    margin-bottom: 20px;
-  }
-  
-  #recipeDisplay ol li {
-    font-size: 1.2em;
-    color: #666;
-    margin-bottom: 10px;
-  }
-  
-  /* Style for the footer */
-  footer {
-    text-align: center;
-    padding: 20px 0;
-    background-color: #5CE1E6;
-    color: #fff;
-    font-size: 1.2em;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-  }
-  
-  /* Add more styles as needed */
-  
+  margin: 0;
+  padding: 0;
+}
+
+/* Set a background color */
+body {
+  background-color: #E4FEFF;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Style for the drink selection section */
+#drinkSelection {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#drinkSelection h1 {
+  font-size: 2.5em;
+  color: #5CE1E6;
+  margin-bottom: 20px;
+}
+
+/* Style for the recipe display section */
+#recipeDisplay {
+  margin-top: 50px;
+  text-align: center;
+}
+
+/* Style for buttons */
+button {
+  padding: 15px 25px;
+  margin: 10px;
+  font-size: 1.2em;
+  cursor: pointer;
+  background-color: #5CE1E6;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0E8FA6;
+}
+
+/* Style for the cocktail image */
+#recipeDisplay img {
+  max-width: 300px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+/* Style for the cocktail name */
+#recipeDisplay h2 {
+  font-size: 2em;
+  color: #5CE1E6;
+  margin-bottom: 20px;
+}
+
+/* Style for the ingredients list */
+#recipeDisplay ul {
+  list-style-type: none;
+  margin-bottom: 20px;
+}
+
+#recipeDisplay ul li {
+  font-size: 1.2em;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+/* Style for the instructions */
+#recipeDisplay ol {
+  list-style-type: decimal;
+  margin-bottom: 20px;
+}
+
+#recipeDisplay ol li {
+  font-size: 1.2em;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+/* Style for the footer */
+footer {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #5CE1E6;
+  color: #fff;
+  font-size: 1.2em;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Custom styles for the spinning effect */
+.spinning {
+  animation: spinAnimation 4s ease-in-out forwards;
+}
+
+@keyframes spinAnimation {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(720deg); }  /* Adjust the number of degrees based on your preference */
+}
